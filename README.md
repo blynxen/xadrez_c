@@ -19,9 +19,9 @@ Durante o desenvolvimento, as seguintes peças e comportamentos foram simulados:
 
 1. **Clone o repositório**:
 
-   git clone https://github.com/Cursos-TI/desafio-xadrez-bclelis
+   git clone https://github.com/blynxen/xadrez_c.git
 
-   cd desafio-xadrez-bclelis
+   cd xadrez_c
 3. **Compile o código com GCC**:
 
    gcc xadrez.c -o xadrez
